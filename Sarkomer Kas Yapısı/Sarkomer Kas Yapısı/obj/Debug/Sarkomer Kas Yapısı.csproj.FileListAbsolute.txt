@@ -1,0 +1,18 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\bin\Debug\Sarkomer Kas Yapısı.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\bin\Debug\Sarkomer Kas Yapısı.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\bin\Debug\Sarkomer Kas Yapısı.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer_Kas_Yapısı.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer_Kas_Yapısı.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\bin\Debug\Sarkomer Kas Yapısı.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\bin\Debug\Sarkomer Kas Yapısı.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\bin\Debug\Sarkomer Kas Yapısı.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer_Kas_Yapısı.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer_Kas_Yapısı.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\Sarkomer Kas Yapısı\Sarkomer Kas Yapısı\obj\Debug\Sarkomer Kas Yapısı.pdb
